@@ -26,4 +26,4 @@ curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*publ
 echo User: Administrator
 echo Password: Thuonghai001
 echo Do not close tab
-echo expired 1 hour
+echo expired 12 hour
